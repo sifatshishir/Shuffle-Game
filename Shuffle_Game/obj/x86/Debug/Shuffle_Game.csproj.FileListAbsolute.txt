@@ -1,0 +1,7 @@
+D:\WORKING\CODE\C#\Shuffle_Game\Shuffle_Game\bin\Debug\Shuffle_Game.exe
+D:\WORKING\CODE\C#\Shuffle_Game\Shuffle_Game\bin\Debug\Shuffle_Game.pdb
+D:\WORKING\CODE\C#\Shuffle_Game\Shuffle_Game\obj\x86\Debug\Shuffle_Game.Form1.resources
+D:\WORKING\CODE\C#\Shuffle_Game\Shuffle_Game\obj\x86\Debug\Shuffle_Game.Properties.Resources.resources
+D:\WORKING\CODE\C#\Shuffle_Game\Shuffle_Game\obj\x86\Debug\Shuffle_Game.csproj.GenerateResource.Cache
+D:\WORKING\CODE\C#\Shuffle_Game\Shuffle_Game\obj\x86\Debug\Shuffle_Game.exe
+D:\WORKING\CODE\C#\Shuffle_Game\Shuffle_Game\obj\x86\Debug\Shuffle_Game.pdb
